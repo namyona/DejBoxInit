@@ -1,2 +1,3 @@
 # DejBoxInit
 initiale
+Test init
